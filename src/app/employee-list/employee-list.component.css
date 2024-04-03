@@ -1,0 +1,21 @@
+table,th,td{
+    border: 2px solid red;
+    border-collapse: collapse;
+}
+th,td{
+    padding: 15px;
+}
+td{
+    color: blue;
+}
+th{
+    color: darkmagenta;
+}
+table{
+    background-color: lightgoldenrodyellow;
+    margin-left: 320px;
+}
+H1{
+    color: darkred;
+    text-align: center;
+}
